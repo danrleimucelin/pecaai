@@ -2,6 +2,11 @@
 
 ![](https://github.com/stevanmesser/PecaAi/blob/main/logo_pe%C3%A7a_ai_dark.png#gh-light-mode-only)
 
+- ReactJS
+- NestJS
+- MaterialUI
+- MongoDB
+
 # Integrantes deste projeto
 
 - Stevan Arthur Messer
