@@ -9,10 +9,10 @@
 
 # Integrantes deste projeto
 
-- Stevan Arthur Messer
-- Guilherme Rodrigo Becker
-- Geraldo Armin Fensterseifer Junior
 - Danrlei Mucelin
+- Geraldo Armin Fensterseifer Junior
+- Guilherme Rodrigo Becker
+- Stevan Arthur Messer
 
 # Objetivos
 
